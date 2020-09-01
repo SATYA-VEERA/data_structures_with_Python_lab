@@ -1,4 +1,4 @@
-# 2B11_lab_programs
+# 2B11_data_structures_lab_programs
 This is a repository for 2B11 students to submit their programs of Data Structures using Python lab
 
 ## DATA STRUCTURES LABORATORY
